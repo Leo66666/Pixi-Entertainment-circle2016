@@ -1,4 +1,4 @@
-# Pixi-
+# Pixi
 Pixi.js这个框架是一个2D渲染引擎，主要使用的有两种渲染模式，WEBGL和CANVAS画布渲染，且提供强大的硬件加速让页面更加丝滑流畅。
 
 # Project
