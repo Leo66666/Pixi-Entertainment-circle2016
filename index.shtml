@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>一镜到底H5</title>
+    <meta name="description" content="一起来测试一镜到底"/>
+    <meta name="keywords" content="一起来测试一镜到底" />
+    <link rel="stylesheet" href="src/css/main.css">
+</head>
+<body>
+    
+    <div id="percent"></div>
+    <div class="test"></div>
+    <div class="container-end">
+        <img src="src/images/23.jpg" alt="" class="container-end-img">
+        <img src="src/images/names.png" alt="" class="container-end-names">
+        <a href="javascript:void(0)" class="btn1 btn"></a>
+        <a href="javascript:void(0)" class="btn2 btn"></a>
+        <a href="" class="btn3 btn"></a>
+        <a href="javascript:void(0)" class="btn4 btn"></a>
+    </div>
+
+    <script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <script src="http://moban.dayoo.com/templateRes/201908/09/51466/js/jquery.js"></script>
+    <script src="src/js/AlloyTouch.js" charset="utf-8"></script>
+    <script src="src/js/Pixi.min.js" charset="utf-8"></script>
+    <script src="src/js/TimelineMax.min.js" charset="utf-8"></script>
+    <script src="src/js/TweenMax.min.js" charset="utf-8"></script>
+    <script src="src/js/resources.js" charset="utf-8"></script>
+    <script src="src/js/scene.js" charset="utf-8"></script>
+    <script src="src/js/sprites.js" charset="utf-8"></script>
+    <script src="src/js/main.js" charset="utf-8"></script>
+    <script src="src/js/animation.js" charset="utf-8"></script>
+</body>
+</html>

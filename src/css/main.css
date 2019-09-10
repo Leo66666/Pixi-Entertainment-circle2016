@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+section {
+    position: absolute;
+    width: 640px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.test{
+    position: fixed;
+    color: red;
+    left: 20vw;
+    top: 10vw
+}
+
+#percent{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    color: white;
+    z-index: 555;
+    transform: translate(-50%,-50%) rotate(90deg)
+}
+
+.container-end{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+.container-end .container-end-img{
+    width: 100%;
+    height: 100%;
+}
+.container-end .btn1{
+    width: 42vw;
+    height: 18.13vw;
+    position: absolute;
+    left: 50%;
+    top: 10vw;
+    transform: translate(-50%,0);
+    background: url(../images/btn1.png)no-repeat center/100%
+}
+.container-end .btn2{
+    width: 42vw;
+    height: 18.13vw;
+    position: absolute;
+    left: 50%;
+    top: 15vw;
+    transform: translate(-50%,0);
+    background: url(../images/btn2.png)no-repeat center/100%
+}
+.container-end .btn2{
+    width: 42vw;
+    height: 18.13vw;
+    position: absolute;
+    left: 50%;
+    top: 30vw;
+    transform: translate(-50%,0);
+    background: url(../images/btn2.png)no-repeat center/100%
+}
+.container-end .btn3{
+    width: 42vw;
+    height: 18.13vw;
+    position: absolute;
+    left: 50%;
+    top: 46vw;
+    transform: translate(-50%,0);
+    background: url(../images/btn3.png)no-repeat center/100%;
+}
+.container-end .btn4{
+    width: 42vw;
+    height: 18.13vw;
+    position: absolute;
+    left: 50%;
+    top: 64vw;
+    transform: translate(-50%,0);
+    background: url(../images/btn4.png)no-repeat center/100%;
+}
+.container-end .container-end-names{
+    width: 84.66vw;
+    position: absolute;
+    left: 50%;
+    top: 103vw;
+    transform: translate(-50%,0);
+}
