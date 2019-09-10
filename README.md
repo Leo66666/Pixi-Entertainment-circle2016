@@ -2,7 +2,7 @@
 Pixi.js这个框架是一个2D渲染引擎，主要使用的有两种渲染模式，WEBGL和CANVAS画布渲染，且提供强大的硬件加速让页面更加丝滑流畅。
 
 # Project
-本项目基于Pixi.js引擎实现一镜到底的效果，原型是网易2016娱乐圈画圈,案例来源于H5案例分享。
+本项目基于Pixi.js引擎实现一镜到底的效果，手指长按即可进行移动，原型是网易2016娱乐圈画圈,案例来源于H5案例分享。
 地址:https://www.h5anli.com/cases/201612/wyylhz.html
 
 # Idea
@@ -13,3 +13,4 @@ Pixi.js这个框架是一个2D渲染引擎，主要使用的有两种渲染模�
 # Running
 本项目需要使用本地服务器打开，这里使用的Http-server插件。
 插件来源： https://www.npmjs.com/package/http-server
+
