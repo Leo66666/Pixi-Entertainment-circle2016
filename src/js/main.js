@@ -31,7 +31,6 @@ function initTouch(vertical, val) {
 
     let value = 0;
     let timer;
-    alert(321312)
     document.body.addEventListener('touchstart', function () {
         timer=setInterval(function () {
             value -= 15;
