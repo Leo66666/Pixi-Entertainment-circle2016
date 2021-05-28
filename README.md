@@ -14,3 +14,6 @@ Pixi.js这个框架是一个2D渲染引擎，主要使用的有两种渲染模�
 本项目需要使用本地服务器打开，这里使用的Http-server插件。
 插件来源： https://www.npmjs.com/package/http-server
 
+# 线上地址
+https://leo66666.github.io/Pixi-Entertainment-circle2016/index.shtml
+
